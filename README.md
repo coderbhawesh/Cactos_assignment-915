@@ -1,0 +1,3 @@
+- I have shown a list of the artists you follow.
+- I have provide an option to stop the currently playing song.
+- I have provide an option to start playing any of the top 10 songs.
